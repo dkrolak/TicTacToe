@@ -1,0 +1,114 @@
+body{
+    background-color:#222930;
+    color: #8E9198;
+}
+.container 
+{
+width: 425px;
+height: 455px;
+margin-top: 50px;
+padding: 0;
+}
+
+.btn
+{
+  
+width: 150px;
+height: 150px;
+float: left;
+border-radius: 0;
+border: solid 1px #222930;
+}
+
+.green
+{width: 150px;
+height: 150px;
+    
+    font-size: 100px;
+    color: green;
+    float: left;
+margin:0;
+}
+.textGreen{
+    color: green;
+}
+.blue
+{width: 150px;
+height: 150px;
+    
+    font-size: 100px;
+    color: blue;
+    float: left;
+margin:0;
+}
+.textBlue{
+    color: blue;
+}
+div
+{
+    margin: 0;
+}
+h1{
+text-align: center;
+}
+#header{
+    background-color: white;
+    right:0;
+    left:0;
+   position: fixed;
+    margin-left: auto;
+    margin-right:auto;
+    padding:20px;
+    text-align: center;
+    max-width: 600px;
+    font-size: 30px;
+    height: 100%;
+}
+.welcome{
+    
+margin-top:60px;    
+font-size: 80%;
+}
+.position{
+    font-size:150%;
+}
+img{
+  height: auto;
+  width: 500px;
+}
+#b1{
+border-left-style: hidden;
+border-top-style:hidden;
+}
+#b2{
+border-top-style: hidden;
+}
+#b3{
+border-top-style: hidden;
+border-right-style:hidden;
+}
+#b4{
+border-left-style: hidden;
+}
+#b6{
+border-right-style:hidden;
+}
+#b7{
+border-left-style:hidden;
+border-bottom-style:hidden;
+}
+#b8{
+border-bottom-style:hidden;
+}
+#b9{
+border-right-style:hidden;
+border-bottom-style:hidden;
+}
+#cup{
+    height: auto;
+    width: 300px;
+    margin-top:50px;
+}
+.winner{
+    margin-top: 200px;
+}
